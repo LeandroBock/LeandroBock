@@ -114,5 +114,6 @@ Sistema web para centralizar las operaciones de un comercio de achuras y cortes 
 
 - 💼 LinkedIn: [linkedin.com/in/leandrobock](https://www.linkedin.com/in/leandrobock)
 - ✉️ Email: [leandrobockls@gmail.com](mailto:leandrobockls@gmail.com)
+- 📱 Teléfono / WhatsApp: +54 341 153793177
 
 <p align="center"><i>Abierto a oportunidades laborales y proyectos freelance 🚀</i></p>
