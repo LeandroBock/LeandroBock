@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ Sobre mí
 
-- 💻 Desarrollador **Full Stack Junior** formado en **Soy Henry** (Full Stack + Inteligencia Artificial, 2026) y **Digital House** (2022).
+- 💻 Desarrollador **Full Stack** formado en **Soy Henry** (Full Stack + Inteligencia Artificial, 2026) y **Digital House** (2022).
 - 🎓 Cursé el primer año de **Ingeniería en Sistemas de Información** en la UTN Rosario.
 - 🔐 Experiencia en **APIs REST**, autenticación con **JWT** y **Google OAuth**, control de acceso por roles y modelado de datos con **TypeORM**.
 - 🛒 Desarrollé un **sistema de gestión comercial para un cliente real** y trabajé en equipo con **Scrum** en una plataforma de turnos.
@@ -107,15 +107,6 @@ Sistema web para centralizar las operaciones de un comercio de achuras y cortes 
 
 - Español: nativo
 - Inglés: básico
-
----
-
-## 📊 Estadísticas
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LeandroBock&show_icons=true&locale=es&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroBock&layout=compact&locale=es&hide_border=true" />
-</p>
 
 ---
 
